@@ -9,7 +9,7 @@ class Pantalla1_1214 extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text("Pantalla 1 Garciac1214"),
-        backgroundColor: Colors.blue,
+        backgroundColor: Colors.deepPurpleAccent,
       ),
       body: Center(
         child: Column(
